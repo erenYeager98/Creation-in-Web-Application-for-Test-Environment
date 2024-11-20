@@ -34,7 +34,7 @@ systemctl start httpd
 
  Terminal:
  
- ![386834017-fc9d9baf-9d2d-4470-833a-e6bce67247b7](https://github.com/user-attachments/assets/e5592a3f-40a9-4788-8e71-1c90dba846af)
+![image](https://github.com/user-attachments/assets/bf15bf8f-bdb6-477e-9481-a5595b391705)
 
  Website:
  
